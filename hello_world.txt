@@ -1,1 +1,3 @@
-bhbuhytf6resezfviuonpijnoin
+Hi, I am Amartya
+this is a sample repositry made for understanding how repository are created and cloned on Github
+
